@@ -60,7 +60,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>eu.scape.bl.uk.tabdatanorm.processor.ElectoralRegisterMain</mainClass>
+							<mainClass>eu.scape.bl.uk.tabdatanorm.processor.TabNormMain</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
@@ -74,7 +74,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>eu.scape.bl.uk.tabdatanorm.processor.ElectoralRegisterMain</mainClass>
+							<mainClass>eu.scape.bl.uk.tabdatanorm.processor.TabNormMain</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
