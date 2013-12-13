@@ -12,4 +12,5 @@ Further information
 ===================
 
 http://www.openplanetsfoundation.org/blogs/2013-03-01-tabular-data-normalisation-tool
+
 http://wiki.opf-labs.org/display/SP/Normalise+Disparate+Tabular+Data+Sources
